@@ -2,7 +2,7 @@
 
 **登録不要・完全無料・データはどこにも送信されない**インボイス制度対応の請求書ジェネレーターです。
 
-👉 **今すぐ使う:** https://USERNAME.github.io/sumire-invoice/
+👉 **今すぐ使う:** https://taku0826.github.io/sumire-invoice/
 
 ## 特徴
 
